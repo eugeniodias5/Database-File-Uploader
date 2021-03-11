@@ -1,0 +1,12 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": "5432",
+        "database": "database_name",
+        "user": "database_username",
+        "password": "database_password",
+        "idle_in_transaction_session_timeout": 2000,
+        "query_timeout": 2000
+    },
+    "tablename": "filename_to_oid"
+}
